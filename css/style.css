@@ -242,6 +242,11 @@ ul {
     color: #a855f7;
 }
 
+.unit-cover {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: #ffffff;
+}
+
 .clock-cover {
     background: linear-gradient(135deg, #fef2f2 0%, #fee2e2 100%);
     color: #dc2626;
