@@ -895,6 +895,16 @@
     "link": "./projects/particle-text convert/index.html",
     "icon": "ri-cursor-line",
     "coverClass": "particle-cover"
-  }
+  },
+  {
+  "title": "Random Character Generator",
+  "category": "utility",
+  "description": "Generate a fictional character with random traits, strengths, and personality.",
+  "tech": ["HTML", "CSS", "JS"],
+  "link": "./projects/Random_Character_Generator/index.html",
+  "icon": "ri-user-smile-line",
+  "coverStyle": "background: linear-gradient(135deg, #ffecd2 0%, #fcb69f 100%); color: #7c2d12;"
+}
+
 
 ]
