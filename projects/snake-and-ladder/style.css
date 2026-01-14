@@ -1,0 +1,60 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  background: #eef7ff;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+#board {
+  display: grid;
+  grid-template-columns: repeat(10, 1fr);
+  width: 320px;
+  aspect-ratio: 1;
+  border: 3px solid #333;
+}
+
+.cell {
+  border: 1px solid #999;
+  position: relative;
+  background: white;
+  font-size: 10px;
+}
+
+.snake { background: #f8b4b4; }
+.ladder { background: #b4f8b4; }
+
+.num {
+  position: absolute;
+  top: 2px;
+  left: 2px;
+}
+
+.mark {
+  position: absolute;
+  bottom: 2px;
+  font-size: 9px;
+}
+
+.player1, .player2 {
+  width: 14px;
+  height: 14px;
+  border-radius: 50%;
+  position: absolute;
+}
+
+.player1 { background: red; left: 2px; }
+.player2 { background: blue; right: 2px; }
+
+.panel {
+  margin-top: 15px;
+}
+
+@media (min-width: 600px) {
+  #board { width: 400px; }
+}
