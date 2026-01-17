@@ -3439,6 +3439,34 @@
     "coverStyle": "background: linear-gradient(135deg, #ff9a9e 0%, #fecfef 100%); color: #212121;"
   },
   {
+  "title": "Random Fun Fact Generator",
+  "category": "utility",
+  "description": "A simple utility web app that displays a random fun fact each time the user interacts with it, focusing on clean UI, spacing, and instant content updates.",
+  "tech": ["HTML", "CSS", "JavaScript"],
+  "link": "./projects/random-fun-fact-generator/index.html",
+  "icon": "ri-lightbulb-flash-line",
+  "coverStyle": "background: linear-gradient(135deg, #4f46e5 0%, #6366f1 100%); color: white;"
+  },
+
+  {
+  "title": "Random Excuse Generator",
+  "category": "utility",
+  "description": "A fun and interactive utility web app that generates random excuses based on selected categories such as work, study, or general, presented in a clean, card-based UI with instant content updates.",
+  "tech": ["HTML", "CSS", "JavaScript"],
+  "link": "./projects/random-excuse-generator/index.html",
+  "icon": "ri-emotion-laugh-line",
+  "coverStyle": "background: linear-gradient(135deg, #ff9a9e 0%, #8b5cf6 100%); color: white;"
+  },
+
+
+  {
+  "title": "Idea of the Day",
+  "category": "productivity",
+  "description": "A minimal daily inspiration web app that presents one curated idea per day, focused on projects, habits, and learning. Designed for simplicity, consistency, and distraction-free daily engagement.",
+  "tech": ["HTML", "CSS", "JavaScript"],
+  "link": "https://yugenjr.github.io/IdeaOfTheDay/",
+  "icon": "ri-lightbulb-flash-line",
+  "coverStyle": "background: linear-gradient(135deg, #0f172a 0%, #020617 100%); color: #e5e7eb;"
   "title": "My Stylish To-Do-List",
   "category": "utility",
   "description": "Track your everyday tasks, modify & operate with style.",
