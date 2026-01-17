@@ -3113,6 +3113,15 @@
   "link": "./projects/random-excuse-generator/index.html",
   "icon": "ri-emotion-laugh-line",
   "coverStyle": "background: linear-gradient(135deg, #ff9a9e 0%, #8b5cf6 100%); color: white;"
+  },
+  {
+  "title": "Random Color-Palette-Generator",
+  "category": "utility",
+  "description": "A web-based tool that generates random color palettes and allows users to copy HEX color codes instantly.",
+  "tech": ["HTML", "CSS", "JavaScript"],
+  "link": "./projects/Random-color-palette-generator/index.html",
+  "icon": "ri-palette-line",
+  "coverStyle": "background: linear-gradient(135deg, #ff9a9e 0%, #fad0c4 100%); color: #222;"
   }
 
 
