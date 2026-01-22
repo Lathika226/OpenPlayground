@@ -19,6 +19,11 @@
       "link": "./projects/365Days/index.html"
     },
     {
+      "folder": "DigitalPresenceMirror",
+      "path": "./projects/DigitalPresenceMirror/project.json",
+      "link": "./projects/DigitalPresenceMirror/index.html"
+    },
+    {
       "folder": "AccessibilityColorLab",
       "path": "./projects/AccessibilityColorLab/project.json",
       "link": "./projects/AccessibilityColorLab/index.html"
