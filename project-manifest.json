@@ -14,6 +14,16 @@
       "link": "./projects/2048-puzzle/index.html"
     },
     {
+      "folder": "Attention Garden",
+      "path": "./projects/AttentionGarden/project.json",
+      "link": "./projects/AttentionGarden/index.html"
+    },
+    {
+      "folder": "MinimalSurvival",
+      "path": "./projects/MinimalSurvival/project.json",
+      "link": "./projects/MinimalSurvival/index.html"
+    },
+    {
       "folder": "365Days",
       "path": "./projects/365Days/project.json",
       "link": "./projects/365Days/index.html"
@@ -327,6 +337,11 @@
       "folder": "Daily-Randomizer",
       "path": "./projects/Daily-Randomizer/project.json",
       "link": "./projects/Daily-Randomizer/index.html"
+    },
+        {
+      "folder": "living-typrography",
+      "path": "./projects/living-typrography/project.json",
+      "link": "./projects/living-typrography/index.html"
     },
     {
       "folder": "DailyAffirmationCard",
