@@ -1,0 +1,13 @@
+{
+  "title": "Bio Sim",
+  "category": "game",
+  "difficulty": "Beginner",
+  "description": "A simulation game that educates players about various biological processes and ecosystems. Built with HTML, CSS, and JavaScript.",
+  "tech": [
+    "HTML",
+    "CSS",
+    "JavaScript"
+  ],
+  "icon": "ri-leaf-line",
+  "coverStyle": "background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); color: white;"
+}
