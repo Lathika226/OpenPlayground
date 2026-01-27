@@ -1994,6 +1994,11 @@
       "link": "./projects/harmonicjs/index.html"
     },
     {
+      "folder": "chemistryLab",
+      "path": "./projects/chemistryLab/project.json",
+      "link": "./projects/chemistryLab/index.html"
+    },
+    {
       "folder": "AsciiForge",
       "path": "./projects/AsciiForge/project.json",
       "link": "./projects/AsciiForge/index.html"
