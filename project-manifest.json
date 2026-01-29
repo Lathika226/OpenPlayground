@@ -1939,6 +1939,11 @@
       "link": "./projects/MoodSkyGenerator/index.html"
     },
     {
+      "folder": "DigitalPolaroid",
+      "path": "./projects/DigitalPolaroid/project.json",
+      "link": "./projects/DigitalPolaroid/index.html"
+    },
+    {
       "folder": "WorldMeetingPlanner",
       "path": "./projects/WorldMeetingPlanner/project.json",
       "link": "./projects/WorldMeetingPlanner/index.html"
