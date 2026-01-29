@@ -1,13 +1,13 @@
 {
-  "title": "Mood Sky Generator 🌅",
+  "title": "Digital Polaroid Wall 📸",
   "category": "utility",
   "difficulty": "Intermediate",
-  "description": "Generate beautiful sky gradients based on your mood using HTML, CSS, and JavaScript.",
+  "description": "Create a digital polaroid wall to display and organize your favorite photos using HTML, CSS, and JavaScript.",
   "tech": [
     "HTML",
     "CSS",
     "JavaScript"
   ],
-  "icon": "ri-sun-cloudy-line",
+  "icon": "ri-image-line",
   "coverStyle": "background: linear-gradient(135deg, #11998e 0%, #38ef7d 100%); color: white;"
 }
